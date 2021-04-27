@@ -1,0 +1,11 @@
+Model Information:
+* title:	AK-74M Assault Rifle
+* source:	https://sketchfab.com/3d-models/ak-74m-assault-rifle-9084c3bae8224d338103997bc3101480
+* author:	FJH (https://sketchfab.com/FJH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AK-74M Assault Rifle" (https://sketchfab.com/3d-models/ak-74m-assault-rifle-9084c3bae8224d338103997bc3101480) by FJH (https://sketchfab.com/FJH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
